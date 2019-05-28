@@ -692,9 +692,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\backend\\planets-and-spaceships\\csharp.csproj",
-      "projectName": "csharp",
-      "projectPath": "C:\\Users\\Mike\\backend\\planets-and-spaceships\\csharp.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\backend\\planets-and-spaceships\\planetsandspaceships.csproj",
+      "projectName": "planetsandspaceships",
+      "projectPath": "C:\\Users\\Mike\\backend\\planets-and-spaceships\\planetsandspaceships.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Mike\\backend\\planets-and-spaceships\\obj\\",
       "projectStyle": "PackageReference",
